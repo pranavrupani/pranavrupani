@@ -10,6 +10,7 @@ Fun fact: It's illegal to own just one guinea pig in Switzerland. It's considere
 
 You can click [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to visit my portfolio.
 
+Here is where I live ![My Home](planet.webp)
 <!--
 **pranavrupani/pranavrupani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
