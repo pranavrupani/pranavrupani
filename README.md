@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-This is Pranav Rupani. Aspiring Web Developer.
+This is **Pranav Rupani**. Aspiring Web Developer.
 
-I’m currently working on my Post Graduate certificate in web development from Humber College.
+I’m currently working on my **Post Graduate certificate in Web Development** from Humber College.
 
-I’m currently learning HTML, CSS, JS, SQL, DOTnet, Markdown.
+I’m currently learning *HTML, CSS, JS, SQL, DOTnet, Markdown*.
 
 Fun fact: It's illegal to own just one guinea pig in Switzerland. It's considered animal abuse, because they're social beings and get lonely.
 
